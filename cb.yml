@@ -1,0 +1,47 @@
+name: CB
+channels:
+  - conda-forge
+  - anaconda
+  - defaults
+  - r
+  - pytorch
+dependencies:
+  - python
+  - scipy
+  - ptitprince
+  - rpy2
+  - pandas=1.4
+  - matplotlib
+  - numpy
+  - python
+  - jupyter
+  - tzlocal
+  - pywavelets
+  - pandas-datareader
+  - cudatoolkit
+  - torchaudio
+  - pytorch
+  - torchvision
+  - pyro-ppl
+  - gpytorch
+  - statsmodels
+  - networkx
+  - python-igraph
+  - graphviz
+  - cvxpy
+  - pip
+  - multiprocess
+  - tqdm
+  - scikit-learn
+  - openpyxl
+  - pip:
+      - absl-py
+      - charset-normalizer
+      - jaxlib
+      - jaxopt
+      - lxml
+      - opt-einsum
+      - pylops
+      - pyproximal
+      - requests
+      - urllib3
