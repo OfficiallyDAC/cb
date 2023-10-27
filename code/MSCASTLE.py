@@ -1,4 +1,4 @@
-#Taken from https://github.com/OfficiallyDAC/mcsl
+#Taken from https://openreview.net/forum?id=Ub6XILEF9x
 
 import itertools
 import numpy as np
